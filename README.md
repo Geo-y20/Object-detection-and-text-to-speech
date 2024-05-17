@@ -84,4 +84,7 @@ pip install torch opencv-python matplotlib git+https://github.com/ultralytics/yo
 
 
 ## Contributing
+- George Youhana - g.ghaly0451@student.aast.edu
+- Mostafa Magdy - Mustafa.10770@stemredsea.moe.edu.eg
+- Abdallah Alkhouly - a.alkholy53@student.aast.edu
 
