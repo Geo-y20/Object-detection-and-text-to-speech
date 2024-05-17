@@ -1,4 +1,3 @@
-### README for Text-to-Speech and YOLO Object Detector Projects
 
 # Projects Overview
 
